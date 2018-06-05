@@ -1,0 +1,38 @@
+Format: 1.8
+Date: Thu, 27 Jul 2017 12:23:11 +0800
+Source: deepin-appstore
+Binary: deepin-appstore deepin-appstore-data
+Architecture: source all amd64
+Version: 4.0.9.7-1
+Distribution: unstable
+Urgency: low
+Maintainer: Deepin Sysdev <sysdev@deepin.com>
+Changed-By: Iceyer <me@iceyer.net>
+Description:
+ deepin-appstore - Deepin App Store
+ deepin-appstore-data - deepin appstore data file.
+Changes:
+ deepin-appstore (4.0.9.7-1) unstable; urgency=low
+ .
+   * Upgrade dtk rebuild.
+Checksums-Sha1:
+ 014f57ebc73c08a9a1dafdda7173f02ad7205de0 961 deepin-appstore_4.0.9.7-1.dsc
+ 721794f9eee1d3b70176a38633313a97e736d149 8954336 deepin-appstore_4.0.9.7-1.tar.xz
+ e3553fe2f779b08283a1ebd81fd0e14a9d255c10 906096 deepin-appstore-data_4.0.9.7-1_all.deb
+ 2bc0db76d6bf8fba9e5c09949c5d228f770ac293 2645184 deepin-appstore-dbgsym_4.0.9.7-1_amd64.ddeb
+ 6a9c9f80499ac3096f91c0c26dedb663c14e3e82 14826 deepin-appstore_4.0.9.7-1_amd64.buildinfo
+ 0a9e99c13273def716ab81a74a95fcf1c42df72e 7467760 deepin-appstore_4.0.9.7-1_amd64.deb
+Checksums-Sha256:
+ e585aba6dff43c9b87babd837080bf32ba7d28896beea02f2bddaf4dc3362225 961 deepin-appstore_4.0.9.7-1.dsc
+ 73939d66c113af82d85651297366b8d4009e7f4a26dd21d7a5cd119e30e56f3e 8954336 deepin-appstore_4.0.9.7-1.tar.xz
+ f68f50dc7eaeb085681c7525c6808a07510eb50ea1e5e68498c7d63efd5585fd 906096 deepin-appstore-data_4.0.9.7-1_all.deb
+ 0e4e59ef0dbecebc5006c993cdb9f942de2f3e475e7506d3b4f6331811b0fe0d 2645184 deepin-appstore-dbgsym_4.0.9.7-1_amd64.ddeb
+ 4718ce060d19fc4918cf2b4c69336d878dde4dd1dfb0defdb95846149758bd4b 14826 deepin-appstore_4.0.9.7-1_amd64.buildinfo
+ 71540f3493f1f3883a3162faae382500fd2617e7d186e8ce20b121544719bb55 7467760 deepin-appstore_4.0.9.7-1_amd64.deb
+Files:
+ b5d1781d2da1d1df9fda66d5b365ad13 961 admin optional deepin-appstore_4.0.9.7-1.dsc
+ 3d908360eb55a976b57df45fe74e606c 8954336 admin optional deepin-appstore_4.0.9.7-1.tar.xz
+ 28f5b71c482d2a1b2a181da40fa4c359 906096 admin optional deepin-appstore-data_4.0.9.7-1_all.deb
+ 2786b654ae2c4d533916c27f56851d03 2645184 debug optional deepin-appstore-dbgsym_4.0.9.7-1_amd64.ddeb
+ 566f561ec0eb0d48da4c4f7d8e816bf6 14826 admin optional deepin-appstore_4.0.9.7-1_amd64.buildinfo
+ 28c45a8ee73bdf89390d08e177624b91 7467760 admin optional deepin-appstore_4.0.9.7-1_amd64.deb
