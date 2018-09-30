@@ -1,3 +1,28 @@
+<a name="4.0.14"></a>
+## 4.0.14 (2018-08-12)
+
+
+#### Bug Fixes
+
+*   deepin id error ([cc095a65](https://github.com/linuxdeepin/deepin-appstore/commit/cc095a65df6a1cd3159cd79650d13a00ea0d0efa))
+
+
+
+<a name="4.0.13"></a>
+### 4.0.13 (2018-07-16)
+
+
+#### Bug Fixes
+
+*   failed on build if the cxx flags contains "-Werror=implicit-fallthrough" ([ceac5cd2](https://github.com/linuxdeepin/deepin-appstore/commit/ceac5cd20c259f4b86c006c4909a14a6ab070f2b))
+*   window background is transparent ([eb0fd6ea](https://github.com/linuxdeepin/deepin-appstore/commit/eb0fd6ea3c17df2612dfdd134a28c09ec23e5980))
+
+#### Performance
+
+*   remove cnzz ([9930f0e2](https://github.com/linuxdeepin/deepin-appstore/commit/9930f0e2e77016b3ae142e07e0eac9c2c8ecb672))
+
+
+
 <a name="4.0.12"></a>
 ## 4.0.12 (2018-03-06)
 
